@@ -25,4 +25,4 @@ end
 # gem 'debugger', group: [:development, :test]
 
 gem 'rspec-rails', '2.13.1'
-
+gem 'capybara'
